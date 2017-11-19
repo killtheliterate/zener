@@ -1,5 +1,7 @@
 # zener 
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/killtheliterate/zener.svg)](https://greenkeeper.io/)
+
 # About
 
 Computers playing cards, and saving the results to Google Forms
